@@ -1,4 +1,4 @@
-# house price prediction. <br />
+# House_price_prediction. <br />
 This notebook tried to investigate the performances comparision between deep learning method and conventional Machine Learning techniques in predicting house price. <br />
 The data used in this project is creditted from: https:/b.com/khpeek/funda-scraper <br />
 Deep learning method ued in the project is Multilayer Perceptron <br />
